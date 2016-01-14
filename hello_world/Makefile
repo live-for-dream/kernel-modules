@@ -7,4 +7,4 @@ all:
 clean:
 	rm -rf *.o
 	rm -rf *.ko
-	rm -rf modules.* Module.* *.mod.*
+	rm -rf modules.* Module.* *.mod.* .*

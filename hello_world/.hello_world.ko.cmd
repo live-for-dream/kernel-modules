@@ -1,1 +1,0 @@
-cmd_/home/centos-dev/modules/hello_world/hello_world.ko := ld -r -m elf_x86_64 -T /home/centos-dev/kernel/pure_kernel/linux-2.6.36/scripts/module-common.lds --build-id  -o /home/centos-dev/modules/hello_world/hello_world.ko /home/centos-dev/modules/hello_world/hello_world.o /home/centos-dev/modules/hello_world/hello_world.mod.o

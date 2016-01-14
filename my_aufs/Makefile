@@ -7,4 +7,4 @@ all:
 clean:
 	rm -rf *.o
 	rm -rf *.ko
-	rm -rf *.order *.symvers *.mod.*
+	rm -rf *.order *.symvers *.mod.* .*
